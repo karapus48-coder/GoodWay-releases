@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "0.8.1",
+  "versionCode": 14,
+  "versionName": "0.8.2",
   "apkUrl": "https://github.com/karapus48-coder/GoodWay-releases/raw/main/goodway.apk",
-  "notes": "Проверка безопасности: ваши брони и телефон видят только вы, водитель поездки и администратор. Защищённая сборка приложения."
+  "notes": "Приложение подписано новым ключом GoodWay. Если обновление не ставится, удалите старую версию и установите заново."
 }
