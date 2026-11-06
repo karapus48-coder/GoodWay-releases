@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "0.8",
+  "versionCode": 13,
+  "versionName": "0.8.1",
   "apkUrl": "https://github.com/karapus48-coder/GoodWay-releases/raw/main/goodway-driver.apk",
-  "notes": "Первая версия отдельного приложения для водителей: вход по логину и паролю от администратора."
+  "notes": "Проверка безопасности: уведомления приходят только на телефон вошедшего водителя, защищённая сборка приложения."
 }

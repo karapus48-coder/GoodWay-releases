@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "0.8",
+  "versionCode": 13,
+  "versionName": "0.8.1",
   "apkUrl": "https://github.com/karapus48-coder/GoodWay-releases/raw/main/goodway.apk",
-  "notes": "GoodWay теперь отдельное приложение для пассажиров. Раздел водителя переехал в приложение «GoodWay Водитель»."
+  "notes": "Проверка безопасности: ваши брони и телефон видят только вы, водитель поездки и администратор. Защищённая сборка приложения."
 }
