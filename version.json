@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "0.8.2",
+  "versionCode": 15,
+  "versionName": "0.8.3",
   "apkUrl": "https://github.com/karapus48-coder/GoodWay-releases/raw/main/goodway.apk",
-  "notes": "Приложение подписано новым ключом GoodWay. Если обновление не ставится, удалите старую версию и установите заново."
+  "notes": "Подсказка о размере багажа стала короче: В × Ш × Г."
 }

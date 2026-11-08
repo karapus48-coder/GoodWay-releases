@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "0.8.2",
+  "versionCode": 15,
+  "versionName": "0.8.3",
   "apkUrl": "https://github.com/karapus48-coder/GoodWay-releases/raw/main/goodway-demo.apk",
-  "notes": "Версия 0.8.2 (служебная демо-сборка)."
+  "notes": "Демо 0.8.3: имя и телефон в брони водителя, вопрос об оплате Да / Нет, подсказка багажа В × Ш × Г."
 }
